@@ -1,0 +1,20 @@
+.am-form-group .am-alert{
+    background-color: #ffffff;
+    border: none;
+    color: #FF0000;
+}
+.am-form input[type=number], .am-form input[type=search], .am-form input[type=text], .am-form input[type=password], .am-form input[type=datetime], .am-form input[type=datetime-local], .am-form input[type=date], .am-form input[type=month], .am-form input[type=time], .am-form input[type=week], .am-form input[type=email], .am-form input[type=url], .am-form input[type=tel], .am-form input[type=color], .am-form select, .am-form textarea, .am-form-field{
+    border: 1px solid #EFEFEF;
+    padding: 0.6em 0.5em;
+}
+.am-field-valid, .am-form-success .am-form-field{
+    border-color: #EFEFEF !important;
+}
+.wsw-btu-submit{
+    width: 100%;
+    padding: 0.6em 0.5em;
+}
+legend{
+    padding: 0.5em;
+    text-align: center;
+}

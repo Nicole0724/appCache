@@ -1,0 +1,110 @@
+legend {
+    padding: 0.5em;
+    text-align: center;
+}
+
+.wsw-btu-submit {
+    width: 100%;
+    margin-top: 4em;
+}
+
+.row1 {
+    text-align: center;
+}
+
+.row1 img {
+    margin-top: 1em;
+    width: 25%;
+    text-align: center;
+}
+
+.row1 p {
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
+.row1-1 {
+    text-align: center;
+}
+
+.row1-1 img {
+    margin-top: 1em;
+    width: 25%;
+    text-align: center;
+}
+
+.row1-1 p {
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
+
+
+.row1-2 {
+    text-align: center;
+}
+.row1-2 img {
+    width:35%;
+    text-align: center;
+}
+
+.row1-2 p {
+    margin: 0;
+    font-size: 1.6rem;
+    font-weight: lighter;
+}
+
+
+.row2 {
+    font-size: 1.4rem;
+    margin-top: 2em;
+    color: #6e716f;
+}
+
+.row2 p {
+    margin: 0.1em 0em;
+}
+
+.color-success {
+    color: #39921E;
+}
+
+.color-error {
+    color: #C12A2A;
+}
+.color-default {
+    color: #999;
+}
+
+.stutas-title{
+    color: #000000;
+}
+.status-center{
+    text-align: center;
+}
+.footer {
+
+}
+
+.footer img {
+    width: 100%;
+}
+
+.row3 {
+    font-size: 1.4rem;
+    color: #6e716f;
+}
+
+.row3 p {
+    margin: 0.5em 0em;
+}
+.status-font-size{
+    font-size: 1.8rem;
+}
+.stutas-legend legend{
+    margin-bottom: 0.5rem !important;
+}
+.stutas-legend fieldset{
+padding:0.5rem 2rem ;
+}
+.help{
+    text-decoration: underline;
+}

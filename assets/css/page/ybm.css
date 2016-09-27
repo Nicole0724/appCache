@@ -1,0 +1,195 @@
+/*水平排列*/
+
+.wsw_box_h {
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    -webkit-box-orient: horizontal;
+    box-orient: horizontal;
+}
+
+/*垂直排列*/
+
+.wsw_box_v {
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    -webkit-box-orient: vertical;
+    box-orient: vertical;
+}
+
+/*demo*/
+
+.wsw_box_flex {
+    -webkit-box-flex: 1;
+    box-flex: 1;
+}
+
+.am-form-group .am-alert {
+    background-color: #ffffff;
+    border: none;
+    color: #FF0000;
+}
+
+.am-form input[type=number], .am-form input[type=search], .am-form input[type=text], .am-form input[type=password], .am-form input[type=datetime], .am-form input[type=datetime-local], .am-form input[type=date], .am-form input[type=month], .am-form input[type=time], .am-form input[type=week], .am-form input[type=email], .am-form input[type=url], .am-form input[type=tel], .am-form input[type=color], .am-form select, .am-form textarea, .am-form-field {
+    border: 1px solid #EFEFEF;
+    padding: 0.6em 0.5em;
+}
+
+.am-field-valid, .am-form-success .am-form-field {
+    border-color: #EFEFEF !important;
+}
+
+legend {
+    padding: 0.5em;
+    text-align: center;
+}
+
+.wsw-btu-submit {
+    width: 100%;
+    padding: 0.6em 0.5em;
+    margin: 0em 0em 0em 0em;
+}
+
+.temp-img {
+    width: 100%;
+}
+
+.p-atc {
+    /*margin: 0.5em 0em;*/
+    margin: 0 auto;
+}
+
+.footer {
+
+}
+
+.footer img {
+    width: 100%;
+}
+
+.code-input {
+
+}
+
+.code-a {
+    height: 4rem;
+    text-align: right;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.code-a input {
+    height: 100% !important;
+    text-align: right;
+    margin-left: 10px;
+}
+
+.am-form-group {
+    margin-bottom:1em;
+}
+
+.userName {
+    text-indent: 2em;
+    background-image: url("../../images/user.png") !important;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    background-size: 1.5rem;
+}
+
+.userTel {
+    text-indent: 2em;
+    background-image: url("../../images/phone.png") !important;
+    background-repeat: no-repeat;
+    background-position: 12px center;
+    background-size: 1.0rem;
+}
+
+fieldset {
+    margin: 0;
+    padding: 1em 1em;
+    background-color: #0ea872;
+}
+/*1fd494  22eba5*/
+.am-btn-success {
+    background-color: #1fd494;
+    border-color: #1fd494;
+}
+.am-active .am-btn-success.am-dropdown-toggle, .am-btn-success.am-active, .am-btn-success:active, .am-btn-success:focus, .am-btn-success:hover{
+    background-color: #22eba5;
+}
+.am-btn-success.am-disabled, .am-btn-success.am-disabled.am-active, .am-btn-success.am-disabled:active, .am-btn-success.am-disabled:focus, .am-btn-success.am-disabled:hover, .am-btn-success[disabled], .am-btn-success[disabled].am-active, .am-btn-success[disabled]:active, .am-btn-success[disabled]:focus, .am-btn-success[disabled]:hover, fieldset[disabled] .am-btn-success, fieldset[disabled] .am-btn-success.am-active, fieldset[disabled] .am-btn-success:active, fieldset[disabled] .am-btn-success:focus, fieldset[disabled] .am-btn-success:hover{
+    background-color: #22eba5;
+}
+.color-block-bg{
+    font-size: 1.2rem;
+    padding: 0.8em 0em 1.2em 0em;
+    color: #eaeaea;
+    background-color:#3d3d3d ;
+}
+.color-block-bg div{
+    text-align: center;
+    /*width: 20rem;*/
+    /*margin: auto;*/
+}
+.color-block-bg a{
+    font-size: 1.2rem;
+    color: #eaeaea;
+}
+
+
+.color-block-bg-zsbm{
+    padding: 0em 0em 0em 0em;
+    color: #eaeaea;
+    background-color:#3d3d3d ;
+}
+.color-block-bg-zsbm div{
+    text-align: center;
+    /*width: 20rem;*/
+    /*margin: auto;*/
+}
+.color-block-bg-zsbm a{
+    color: #eaeaea;
+}
+
+.color-block-bg-btu{
+    background-color:#3d3d3d ;
+}
+.am-btn-org{
+    background-color: #d49a3f;
+    border-color: #d49a3f;
+}
+.am-active .am-btn-org.am-dropdown-toggle, .am-btn-org.am-active, .am-btn-org:active, .am-btn-org:focus, .am-btn-org:hover{
+    background-color: #f2b947;
+    color: #eaeaea;
+}
+.am-btn-org.am-disabled, .am-btn-org.am-disabled.am-active, .am-btn-org.am-disabled:active, .am-btn-org.am-disabled:focus, .am-btn-org.am-disabled:hover, .am-btn-org[disabled], .am-btn-org[disabled].am-active, .am-btn-org[disabled]:active, .am-btn-org[disabled]:focus, .am-btn-org[disabled]:hover, fieldset[disabled] .am-btn-org, fieldset[disabled] .am-btn-org.am-active, fieldset[disabled] .am-btn-org:active, fieldset[disabled] .am-btn-org:focus, fieldset[disabled] .am-btn-org:hover{
+    background-color: #f2b947;
+    color: #eaeaea;
+}
+
+/*------zsbm-----*/
+
+.userIdCard {
+    text-indent: 2em;
+    background-image: url("../../images/id-card.png") !important;
+    background-repeat: no-repeat;
+    background-position: 8px center;
+    background-size: 1.8rem;
+}
+.none-data{
+    padding-top: 10em;
+    text-align: center;
+}
+.am-control-nav{
+    display: none;
+}
+.am-slider-default{
+    margin: auto;
+}
+.am-field-error, .am-form-error .am-form-field{
+    background-color: #fee!important;
+}
+.am-slider-default .am-direction-nav a:before{
+    color: #D69A0D;
+}
